@@ -1,4 +1,4 @@
-baseURL = 'https://Vikavikavika.github.io/site/'
+baseURL = 'https://vikavikavika.github.io/site/'
 languageCode = 'ru-ru'
 title = 'Мой Потрясающий Сайт'
 theme = 'PaperMod'
