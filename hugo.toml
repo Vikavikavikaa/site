@@ -1,0 +1,23 @@
+baseURL = 'https://Vikavikavika.github.io/site/'
+languageCode = 'ru-ru'
+title = 'Мой Потрясающий Сайт'
+theme = 'PaperMod'
+
+[params]
+  author = 'Вика Р'
+  description = 'Это мой сайт интересный такой да'
+
+[[menu.main]]
+  name = 'Главная'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'О себе'
+  url = '/about/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Блог'
+  url = '/posts/'
+  weight = 3

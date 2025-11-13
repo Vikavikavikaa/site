@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Блог on Мой Потрясающий Сайт</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Блог on Мой Потрясающий Сайт</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 12 Nov 2025 21:38:30 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Второй Пост</title>
+      <link>http://localhost:1313/posts/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Wed, 12 Nov 2025 21:38:30 +0300</pubDate>
+      <guid>http://localhost:1313/posts/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description>&lt;h1 id=&#34;пост-второй&#34;&gt;Пост второй&lt;/h1&gt;
+&lt;p&gt;Советую всем хотябы раз в жизни прочитать китайскую новеллу и в своем познание сознание преисполнится.
+Китайцы - гении, че тока не придумают. Я например у них читала про гриба в апокалипсисе, который мутировал и стал человеком.
+Очень кстати глубокое произведение, филосовское.
+Особенно мне нравятся хоррор-новеллы. Они конечно не страшные, но с атмосферой и милой романтикой.
+Там обычно авторы любят разгулятся. Я вот например читала про чела, которому досталась способность уничтожать всех
+лютых хоррор боссов поцелуем.
+В общем, на случай важных переговоров надо иметь в своем арсенале парочку новеллок.
+Однажды это обязательно пригодится&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Первый Пост</title>
+      <link>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Wed, 12 Nov 2025 21:38:14 +0300</pubDate>
+      <guid>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description>&lt;h1 id=&#34;первый-пост-шок&#34;&gt;Первый пост шок!&lt;/h1&gt;
+&lt;p&gt;Статья как нарисовать что угодно:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ищешь референс или просто рисуешь с натуры чето около тебя.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Начирякай как чувствуешь от души контур предмета.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Набросок готов, скорее всего он стремный, не беда, это норма.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Щас самое главное, включаем художника и смешиваем разные цвета, оттенки,
+тут главное не боятся и фигачить всем этот набросок несчастный.
+Рисуешь яблоко? Отлично, добавляем синий и фиолетовый ну а че нам.
+И все будет по вайбу по кайфу.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
